@@ -212,7 +212,7 @@
 
   抓包！
 
-    1. 用HS请求 改POST为HS
+       1. 用HS请求 改POST为HS
        2. 用本地ip地址才能访问：X-Forwarded-For:127.0.0.1
        3. “我希望你是从'www.ltyyds.com'过来的：伪造来源网址
        4. 浏览器是LT,改！user-agent
